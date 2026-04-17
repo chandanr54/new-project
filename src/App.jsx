@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
 import './App.css'
-import Home from './compenent/Home'
+import Home from './pages/Home'
 import { HashRouter, Route, Routes } from 'react-router-dom'
 
 function App() {
